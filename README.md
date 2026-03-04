@@ -1,3 +1,5 @@
+## SIN MAS ACTUALIZACIONES
+
 > 🏵 Este bot aun esta en desarrollo, algunos comandos tienen fallas por falta de actualizaciones u otras cosas, se estaran arreglando los comandos. 🔥
 
 <h1 align="center">Rory Mercury - TG 🍀</h1>
